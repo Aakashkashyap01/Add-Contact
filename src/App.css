@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  font-weight: 500;
+  font-size: larger;
+  border: 2px solid;
+  background-color: #8e0625;
+  color: white;
+  text-align: center;
+}
+.formHeader{
+  margin-left: 12px;
+}
+.add-contact{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: fantasy;
+  margin-left: 0px;
+}
+.btn{
+  border-color: cadetblue;
+  color: #8e0625;
+  font-size: 15px;
+  margin-top: 5px;
+}
+.contacts{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid;
+  background: #FDEFF2;
+  margin-bottom: 2px;
+  margin-left: 12px;
+  margin-right: 5px;
+}
+.email{
+  font-size: 20px;
+}
+.contact-header{
+  font-size: 25px;
+  font-weight: 500;
+  font-family: system-ui;
+  margin-left: 12px;
+  margin-top: 20px;
+}
